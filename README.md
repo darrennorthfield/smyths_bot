@@ -11,6 +11,7 @@ A simple Python script that uses Selenium to monitor a product. Once the item co
 Install all dependencies
 1. pip3 install selenium
 2. pip3 install discordwebhook
+3. brew install geckodriver
 
 
 ### Instructions
