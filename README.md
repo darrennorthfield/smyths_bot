@@ -1,4 +1,5 @@
 # Smyths Checkout Bot
+forked from jaydenlsf/smyths_bot
 A simple Python script that uses Selenium to monitor a product. Once the item comes back in stock, the bot will attempt to add it to cart and checkout the basket.
    - Useful for trying to catch a Xbox Series X or Playstation 5 restock
 
