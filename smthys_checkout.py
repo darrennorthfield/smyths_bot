@@ -8,8 +8,8 @@ import json
 
 driver = webdriver.Firefox()
 
-cart_url = 'https://www.smythstoys.com/uk/en-gb/cart'
-product_url = input('Please insert the product url:\n')
+cart_url = 'https://www.smythstoys.com/cart'
+product_url = driver.get('')
 
 with open('profile.json', 'r') as f:
     profile = json.load(f)
